@@ -1,0 +1,118 @@
+D:\SQLSever文件\XYQK\bin\XYQK.dll.config
+D:\SQLSever文件\XYQK\bin\XYQK.dll
+D:\SQLSever文件\XYQK\bin\XYQK.pdb
+D:\SQLSever文件\XYQK\bin\roslyn\csc.exe
+D:\SQLSever文件\XYQK\bin\roslyn\csc.exe.config
+D:\SQLSever文件\XYQK\bin\roslyn\csc.rsp
+D:\SQLSever文件\XYQK\bin\roslyn\csi.exe
+D:\SQLSever文件\XYQK\bin\roslyn\csi.exe.config
+D:\SQLSever文件\XYQK\bin\roslyn\csi.rsp
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SQLSever文件\XYQK\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.AppContext.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Collections.Immutable.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Console.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Globalization.Calendars.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.IO.Compression.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.IO.FileSystem.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Net.Http.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Net.Sockets.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Reflection.Metadata.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.ValueTuple.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Xml.XPath.dll
+D:\SQLSever文件\XYQK\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SQLSever文件\XYQK\bin\roslyn\vbc.exe
+D:\SQLSever文件\XYQK\bin\roslyn\vbc.exe.config
+D:\SQLSever文件\XYQK\bin\roslyn\vbc.rsp
+D:\SQLSever文件\XYQK\bin\roslyn\VBCSCompiler.exe
+D:\SQLSever文件\XYQK\bin\roslyn\VBCSCompiler.exe.config
+D:\SQLSever文件\XYQK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SQLSever文件\XYQK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SQLSever文件\XYQK\obj\Debug\XYQK.csproj.CoreCompileInputs.cache
+D:\SQLSever文件\XYQK\obj\Debug\XYQK.csproj.CopyComplete
+D:\SQLSever文件\XYQK\obj\Debug\XYQK.dll
+D:\SQLSever文件\XYQK\obj\Debug\XYQK.pdb
+D:\SQLSever文件\XYQK\obj\Debug\XYQK.csproj.AssemblyReference.cache
+D:\SQLSever文件\XYQK - 升级版\bin\XYQK.dll.config
+D:\SQLSever文件\XYQK - 升级版\bin\XYQK.dll
+D:\SQLSever文件\XYQK - 升级版\bin\XYQK.pdb
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\csc.exe
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\csc.exe.config
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\csc.rsp
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\csi.exe
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\csi.exe.config
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\csi.rsp
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.AppContext.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Collections.Immutable.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Console.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Globalization.Calendars.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.IO.Compression.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.IO.FileSystem.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Net.Http.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Net.Sockets.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Reflection.Metadata.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.ValueTuple.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Xml.XPath.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\vbc.exe
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\vbc.exe.config
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\vbc.rsp
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\VBCSCompiler.exe
+D:\SQLSever文件\XYQK - 升级版\bin\roslyn\VBCSCompiler.exe.config
+D:\SQLSever文件\XYQK - 升级版\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SQLSever文件\XYQK - 升级版\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SQLSever文件\XYQK - 升级版\obj\Debug\XYQK.csproj.AssemblyReference.cache
+D:\SQLSever文件\XYQK - 升级版\obj\Debug\XYQK.csproj.CoreCompileInputs.cache
+D:\SQLSever文件\XYQK - 升级版\obj\Debug\XYQK.csproj.CopyComplete
+D:\SQLSever文件\XYQK - 升级版\obj\Debug\XYQK.dll
+D:\SQLSever文件\XYQK - 升级版\obj\Debug\XYQK.pdb

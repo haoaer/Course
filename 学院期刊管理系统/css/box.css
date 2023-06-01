@@ -1,0 +1,30 @@
+﻿#login-box {
+    background-color: #00000068;
+    border-radius: 13px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 80px;
+    width: 400px;
+    height: 500px;
+}
+
+body {
+    background-image: url(../img/图片1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0px -50px;
+}
+
+
+
+.btn {
+    line-height: 30px;
+    margin-top: 30px;
+    width: 130px;
+    height: 30px;
+    border-radius: 13px;
+    outline: none;
+    border: none;
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    color: #FFFFFF;
+}
